@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 644fc04fce0907144b361bf64ed61e97
+guid: 51e67d99322505747a6a69571e34c0a7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,19 +110,19 @@ TextureImporter:
       name: Walls_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 76
-        width: 9
-        height: 9
-      alignment: 9
-      pivot: {x: 0.529507, y: 0.8442485}
+        x: 8
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9d756d63a7d7b340a8a4ad57fd69ef0
-      internalID: 339872103
+      spriteID: 83ff2393d7c86e0428da7a749074be9b
+      internalID: -1924422258
       vertices: []
       indices: 
       edges: []
@@ -131,19 +131,19 @@ TextureImporter:
       name: Walls_1
       rect:
         serializedVersion: 2
-        x: 46
-        y: 76
-        width: 3
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 40
+        y: 64
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.35, y: 0.65}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91650ab4bf6cdd0409dc881c59fec21c
-      internalID: 52120235
+      spriteID: 14ff8a3169c49ad419f948d4f7382891
+      internalID: -1998344119
       vertices: []
       indices: 
       edges: []
@@ -152,19 +152,19 @@ TextureImporter:
       name: Walls_2
       rect:
         serializedVersion: 2
-        x: 13
-        y: 48
-        width: 3
-        height: 3
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 44
+        y: 32
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.2, y: 0.8}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6dbe93e76262704a992a9677708b0e9
-      internalID: 115919628
+      spriteID: 5b439b4c149848f44acdb58525db7c56
+      internalID: -1479723050
       vertices: []
       indices: 
       edges: []
@@ -173,19 +173,19 @@ TextureImporter:
       name: Walls_3
       rect:
         serializedVersion: 2
-        x: 47
-        y: 45
-        width: 1
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62d302e4d7aec254fb0b6b623a02e9b3
-      internalID: 1940662027
+      spriteID: b43ff8ceee4c0e7408ee79403e32d0ed
+      internalID: 1609911338
       vertices: []
       indices: 
       edges: []
@@ -194,19 +194,19 @@ TextureImporter:
       name: Walls_4
       rect:
         serializedVersion: 2
-        x: 11
-        y: 16
-        width: 9
-        height: 5
+        x: 12
+        y: 32
+        width: 8
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3886f68116d1f444395b09a30af7e9a8
-      internalID: -1521735591
+      spriteID: eafa14a634be1fb458db020af83f206d
+      internalID: -1263675637
       vertices: []
       indices: 
       edges: []
@@ -222,11 +222,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Walls_0: -745313798
-      Walls_1: 1876223755
-      Walls_2: -1947023862
-      Walls_3: 339872103
-      Walls_4: 52120235
+      Walls_0: -1924422258
+      Walls_1: -1998344119
+      Walls_2: -1479723050
+      Walls_3: 1609911338
+      Walls_4: -1263675637
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
